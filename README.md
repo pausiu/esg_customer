@@ -5,3 +5,4 @@ Approach taken for this project:
 - Use JUnit for unit testing 
 - Use Maven to download dependencies, which refers to the libraries or JAR files.
 - Assume the csv file stored in a separate drive e.g. D:\\customer.csv and then read this file when starting up the Spring Boot application instance
+- StringCalculator is implemented as a utility class bunndled with test case for this project
